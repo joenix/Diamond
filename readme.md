@@ -60,10 +60,10 @@
 - 荧光 : None ~ Faint
 
 ### 形状：
-Round（圆）
-Princess（方）
-Marquise（橄榄）
-Pear（梨）
-Emerald（祖母绿）
-Cushion（垫）
-Heart（心）
+- Round（圆）
+- Princess（方）
+- Marquise（橄榄）
+- Pear（梨）
+- Emerald（祖母绿）
+- Cushion（垫）
+- Heart（心）
